@@ -1,8 +1,8 @@
 # Hi, I'm Zhoor 👋  
-### AWS Cloud Engineer | Python | AWS Certified (CLF/AWS-SA soon) | DevOps Beginner
+### Aspiring AWS Cloud & DevOps Engineer | Python | AWS Certified (CLF) | AWS-SAA (Soon)
 
-🌍 Moroccan CS student in China  
-🎓 Bachelor's Graduate (2026)  
+🌍 Moroccan Computer Science student in China  
+🎓 Bachelor's Graduate (Class of 2026)  
 ☁️ Focused on AWS Cloud & DevOps Engineering  
 🐍 Python automation & scripting  
 ⚙️ Learning Docker, Kubernetes, Terraform  
@@ -14,49 +14,61 @@
 - **Programming:** Python (Automation, AWS SDK boto3, APIs)  
 - **DevOps Tools:** Docker, GitHub Actions, Terraform  
 - **Linux:** Server management, SSH, processes, permissions  
-- **Networking:** VPC, Subnets, Route Tables, NAT, SGs  
+- **Networking:** VPC, Subnets, Route Tables, NAT, Security Groups  
 - **Version Control:** Git, GitHub  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Completed Projects  
+
+### 🗂️ Python File Organizer (Automation + Logging)
+A Python automation tool that organizes files into folders based on file type.
+
+**Features:**
+- Organizes Desktop or custom folders
+- Logs file movements
+- Dry-run preview mode
+- Docker-ready structure
+
+**Tech Stack:**  
+Python · os · shutil · logging · Docker  
+
+🔗 **Repo:** `/python-file-organizer`
+
+---
+
+## 🧪 Planned / In Progress Projects  
 
 ### 🔹 Python + AWS Automation (boto3)
 - Automates EC2 start/stop  
 - Uploads files to S3  
 - Creates IAM users  
-👉 `/aws-python-automation`
 
 ### 🔹 AWS Multi-Tier Architecture  
 - EC2 + RDS + S3 + Load Balancer  
-- Secure, scalable VPC design  
-👉 `/aws-multi-tier-app`
+- Secure & scalable VPC design  
 
 ### 🔹 Dockerized Python App
-- Flask or FastAPI app  
-- Built & deployed using Docker  
-👉 `/docker-python-app`
+- Flask / FastAPI app  
+- Built and deployed using Docker  
 
 ### 🔹 Terraform AWS Infrastructure
 - VPC, subnets, route tables  
 - EC2 + Security Groups via IaC  
-👉 `/terraform-aws-vpc-ec2`
 
 ### 🔹 Serverless App on AWS
 - Lambda + API Gateway  
 - DynamoDB / S3 backend  
-👉 `/aws-serverless-api`
 
 ---
 
 ## 📈 Current Goals  
 - Complete **AWS Cloud Practitioner (CLF-C02)**  
-- Prepare for **AWS Solutions Architect Associate (SAA)**  
-- Build real AWS portfolio projects  
-- Apply for AWS Cloud Support / Cloud Engineer roles  
+- Prepare for **AWS Solutions Architect – Associate (SAA)**  
+- Build real-world AWS & DevOps projects  
+- Apply for **Cloud Support / Junior Cloud Engineer roles**  
 
 ---
 
 ## 📫 Contact Me  
-📧 Email: <benmaghafatimaezahra@gmail.com>  
-
+📧 Email: benmaghafatimaezahra@gmail.com  
