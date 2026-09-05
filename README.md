@@ -1,74 +1,168 @@
-# Hi, I'm Zhoor 👋  
-### Aspiring AWS Cloud & DevOps Engineer | Python | AWS Certified (CLF) | AWS-SAA (Soon)
+# Hi, I'm Zhoor 👋
 
-🌍 Moroccan Computer Science student in China  
-🎓 Bachelor's Graduate (Class of 2026)  
-☁️ Focused on AWS Cloud & DevOps Engineering  
-🐍 Python automation & scripting  
-⚙️ Learning Docker, Kubernetes, Terraform  
+### Computer Science Master's Student | Cybersecurity | AI/ML | Security Research
 
----
+🔐 Interested in Cybersecurity and AI-driven security
 
-## 🚀 Skills
-- **Cloud:** AWS (EC2, S3, RDS, IAM, VPC, Lambda, CloudWatch)  
-- **Programming:** Python (Automation, AWS SDK boto3, APIs)  
-- **DevOps Tools:** Docker, GitHub Actions, Terraform  
-- **Linux:** Server management, SSH, processes, permissions  
-- **Networking:** VPC, Subnets, Route Tables, NAT, Security Groups  
-- **Version Control:** Git, GitHub  
+🤖 Research interests: Machine Learning for Cybersecurity
+
+🐍 Python | Linux | Networking
+
+☁️ Background in Cloud Computing & DevOps
+
+🎓 Computer Science Master's Student in China
 
 ---
 
-## 📌 Completed Projects  
+## 👩‍💻 About Me
 
-### 🗂️ Python File Organizer (Automation + Logging)
-A Python automation tool that organizes files into folders based on file type.
+I am a Computer Science Master's student with a growing
+focus on Cybersecurity, Machine Learning, and Security Research.
 
-**Features:**
-- Organizes Desktop or custom folders
-- Logs file movements
-- Dry-run preview mode
-- Docker-ready structure
+My current goal is to build strong foundations in cybersecurity,
+networking, Linux, Python, and machine learning while developing
+practical projects and exploring research problems.
 
-**Tech Stack:**  
-Python · os · shutil · logging · Docker  
+My research interests include:
 
-🔗 **Repo:** `/python-file-organizer`
+- AI for Cybersecurity
+- Machine Learning for Cybersecurity
+- Network Intrusion Detection
+- Anomaly Detection
+- Cloud Security
+- DevSecOps
 
----
-
-## 🧪 Planned / In Progress Projects  
-
-### 🔹 Python + AWS Automation (boto3)
-- Automates EC2 start/stop  
-- Uploads files to S3  
-- Creates IAM users  
-
-### 🔹 AWS Multi-Tier Architecture  
-- EC2 + RDS + S3 + Load Balancer  
-- Secure & scalable VPC design  
-
-### 🔹 Dockerized Python App
-- Flask / FastAPI app  
-- Built and deployed using Docker  
-
-### 🔹 Terraform AWS Infrastructure
-- VPC, subnets, route tables  
-- EC2 + Security Groups via IaC  
-
-### 🔹 Serverless App on AWS
-- Lambda + API Gateway  
-- DynamoDB / S3 backend  
+I also have a background in Cloud Computing and DevOps, including
+AWS, Docker, Linux, and infrastructure technologies.
 
 ---
 
-## 📈 Current Goals  
-- Complete **AWS Cloud Practitioner (CLF-C02)**  
-- Prepare for **AWS Solutions Architect – Associate (SAA)**  
-- Build real-world AWS & DevOps projects  
-- Apply for **Cloud Support / Junior Cloud Engineer roles**  
+## 🔐 Current Focus
+
+- Cybersecurity Fundamentals
+- Python for Security & Automation
+- Linux
+- Computer Networking
+- TCP/IP
+- Network Security
+- Machine Learning
+- AI-driven Cybersecurity
+- Cybersecurity Research
 
 ---
 
-## 📫 Contact Me  
-📧 Email: benmaghafatimaezahra@gmail.com  
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- APIs
+- Automation & Scripting
+
+### Cybersecurity
+- Cybersecurity Fundamentals
+- Network Security
+- Network Intrusion Detection
+- Security Research
+
+### Machine Learning
+- Machine Learning Fundamentals
+- Classification
+- Anomaly Detection
+- AI for Cybersecurity
+
+### Linux & Networking
+- Linux
+- SSH
+- Processes
+- Permissions
+- TCP/IP
+- IP Addressing
+- Ports
+- DNS
+- HTTP/HTTPS
+
+### Cloud & DevOps
+- AWS
+- Docker
+- GitHub Actions
+- Terraform
+- AWS EC2
+- AWS S3
+- AWS IAM
+- AWS VPC
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔐 Cybersecurity Projects
+
+Coming soon...
+
+### 🤖 Machine Learning for Cybersecurity
+
+Coming soon...
+
+### ☁️ Cloud & DevOps Projects
+
+#### Online IDE
+
+A web-based programming environment developed as my
+undergraduate graduation project.
+
+**Technologies:** Docker · Python · Web Development · APIs
+
+---
+
+## 🔬 Research
+
+### Current Research Interest
+
+**Machine Learning for Cybersecurity**
+
+I am currently exploring research in:
+
+- Machine Learning-based Network Intrusion Detection
+- Anomaly Detection
+- AI Security
+- Network Security
+- Explainable AI for Cybersecurity
+
+I am currently reading and reviewing research papers
+to identify potential research questions and research gaps.
+
+---
+
+## 🎓 Education
+
+### Master's Degree — Computer Science
+
+Currently pursuing a Master's degree in Computer Science.
+
+**Current academic interests:**
+
+Cybersecurity · Machine Learning · Artificial Intelligence ·
+Computer Networks
+
+---
+
+## 🌱 Current Goals
+
+- Build strong Python fundamentals
+- Strengthen Linux and networking knowledge
+- Develop practical cybersecurity projects
+- Learn Machine Learning for cybersecurity
+- Read cybersecurity research papers
+- Develop a cybersecurity research topic
+- Publish research papers
+- Build a strong technical portfolio
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: benmaghafatimaezahra@gmail.com
